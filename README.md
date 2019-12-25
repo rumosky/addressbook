@@ -1,7 +1,9 @@
 ## 通讯录
 
 Windows 窗体程序，VS2019 版，NET Framework 4.7.2，MySQL 5.7.24
+
 国内 Gitee 地址：https://gitee.com/rumosky_admin/addressbook
+
 Github 地址：https://github.com/rumosky/addressbook
 
 ### 安装使用
