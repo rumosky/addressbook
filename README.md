@@ -15,7 +15,7 @@ Github 地址：https://github.com/rumosky/addressbook
 
 数据库信息：
 表名：addressbook
-字段：name，sex，phone，email
+字段：uid（自增主键，不为空）name，sex，phone，email
 
 修改 ManageDatabase.cs 文件中下面内容为自己的数据库地址：
 
