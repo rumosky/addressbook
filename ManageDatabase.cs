@@ -28,7 +28,7 @@ namespace WindowsFormsApp1
         }
         private void ConnectDb()
         {
-            String url = "server=106.14.176.12;port=9711;user=classofc;password=test@1314; database=classofc;Charset=utf8;";
+            String url = "server=127.0.0.1;port=3306;user=root;password=test@1234; database=classofc;Charset=utf8;";
             try
             {
                 conn = new MySqlConnection(url);
