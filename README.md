@@ -27,4 +27,4 @@ String url = "server=127.0.0.1;port=3306;user=root;password=test@1234; database=
 
 帮助文档使用`easyCHM`生成，可执行文件使用`innosetup`打包
 
-反馈地址：https://rumosky.com/archives/78
+反馈地址：https://rumosky.com/archives/75
