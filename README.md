@@ -2,10 +2,6 @@
 
 Windows 窗体程序，VS2019 版，NET Framework 4.7.2，MySQL 5.7.24
 
-国内 Gitee 地址：https://gitee.com/rumosky/addressbook
-
-Github 地址：https://github.com/rumosky/addressbook
-
 ### 安装使用
 
 前往 Release 下载`Setup.exe`，安装后即可预览
@@ -23,8 +19,10 @@ Github 地址：https://github.com/rumosky/addressbook
 String url = "server=127.0.0.1;port=3306;user=root;password=test@1234; database=classofc;Charset=utf8;";
 ```
 
+其他类型数据库请自行修改代码配置即可，支持sqlserver
+
 ### 其他
 
 帮助文档使用`easyCHM`生成，可执行文件使用`innosetup`打包
 
-反馈地址：https://rumosky.com/archives/75
+反馈地址：https://rumosky.com/archives/83
